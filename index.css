@@ -1,8 +1,8 @@
 .body-text{
-    weight: 350 px ;
-    height: 220 px;
-    padding: 15 px 10 px 20px 10px;
-    margin-bottom: 30 px;
-    border: 2 px dached red;
+    width: 350px;
+    height: 220px;
+    padding: 15px 10px 20px 10px;
+    margin-bottom: 30px;
+    border: 2px dashed red;
     background-color: green;
 }
